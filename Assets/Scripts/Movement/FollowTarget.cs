@@ -8,7 +8,7 @@ public class FollowTarget : Physics2DObject
 
 	public bool findWithTag = false;
 
-	public string tag;
+	public string tag1;
 
 	// This is the target the object is going to move towards
 	public Transform target;
